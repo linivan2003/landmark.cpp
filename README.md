@@ -1,5 +1,10 @@
 # landmark.cpp
 This C++ project creates a simple landmark display system that showcases the use of classes, inheritance, virtual functions, constructors, and destructors to manage various types of landmarks.
+## Usage
+Compile the C++ file and run the resulting executable
+```
+./landmark
+```
 ## Features
 The code consists of several classes representing different types of landmarks:
 
